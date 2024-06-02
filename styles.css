@@ -8,7 +8,10 @@ body {
     min-height: 100vh;
     padding: 10px;
   }
-
+  a{
+    float: right;
+    color: green;
+  }
   .container {
     width: 100%;
     max-width: 800px;
